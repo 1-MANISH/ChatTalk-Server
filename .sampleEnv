@@ -1,0 +1,14 @@
+MONGODB_URL = mongodb url
+PORT = port on which server running
+JWT_SECRET = jwt secret key
+
+JWT_ADMIN_SECRET_KEY = jwt admin secret key 
+ADMIN_SECRET_KEY = admin secret key which is our admin dashboard password
+
+NODE_ENV = "DEVELOPMENT"
+
+CLIENT_URL = frontend url
+
+CLOUDINARY_CLOUD_NAME = OUR CLOUD NAME
+CLOUDINARY_API_KEY = OUR CLOUD KEY
+CLOUDINARY_API_SECRET = OUT CLOUD SECRET
